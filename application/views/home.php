@@ -20,7 +20,7 @@ body{
   padding: 20px;
 }
   
-  .links{
+.links{
     ul {list-style-type: none;}
     li a{
       color: white;
@@ -95,7 +95,99 @@ body{
     </ul>
   </div>
 </nav>
-	<h1>http://localhost:1234/application/img/back.jpg</h1>
+
+<div class="row" >
+  <div class="col-md-1">&nbsp;</div>
+  <div class="col-md-10">
+    <div class="row space-16" >&nbsp;</div>
+    <div class="row" >
+
+      <div class="col-sm-4">
+        <div class="thumbnail">
+          <div class="caption text-center" onclick="location.href='https://flow.microsoft.com/en-us/connectors/shared_slack/slack/'">
+            <div class="position-relative">
+              <img src="https://az818438.vo.msecnd.net/icons/slack.png" style="width:72px;height:72px;" />
+            </div>
+            <h4 id="thumbnail-label"><a href="https://flow.microsoft.com/en-us/connectors/shared_slack/slack/" target="_blank">Microsoft Slack</a></h4>
+            <p><i class="glyphicon glyphicon-user light-red lighter bigger-120"></i>&nbsp;Auditor</p>
+            <div class="thumbnail-description smaller">Slack is a team communication tool, that brings together all of your team communications in one place, instantly searchable and available wherever you go.</div>
+          </div>
+          <div class="caption card-footer text-center">
+            <ul class="list-inline">
+              <li><i class="people lighter"></i>&nbsp;7 Active Users</li>
+              <li></li>
+              <li><i class="glyphicon glyphicon-envelope lighter"></i><a href="#">&nbsp;Help</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-sm-4" >
+        <div class="thumbnail">
+          <div class="caption text-center" onclick="location.href='https://flow.microsoft.com/en-us/connectors/shared_slack/slack/'">
+            <div class="position-relative">
+              <img src="https://az818438.vo.msecnd.net/icons/slack.png" style="width:72px;height:72px;" />
+            </div>
+            <h4 id="thumbnail-label"><a href="https://flow.microsoft.com/en-us/connectors/shared_slack/slack/" target="_blank">Microsoft Slack</a></h4>
+            <p><i class="glyphicon glyphicon-user light-red lighter bigger-120"></i>&nbsp;Auditor</p>
+            <div class="thumbnail-description smaller">Slack is a team communication tool, that brings together all of your team communications in one place, instantly searchable and available wherever you go.</div>
+          </div>
+          <div class="caption card-footer text-center">
+            <ul class="list-inline">
+              <li><i class="people lighter"></i>&nbsp;7 Active Users</li>
+              <li></li>
+              <li><i class="glyphicon glyphicon-envelope lighter"></i><a href="#">&nbsp;Help</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-sm-4">
+        <div class="thumbnail">
+          <div class="caption text-center" onclick="location.href='https://flow.microsoft.com/en-us/connectors/shared_slack/slack/'">
+            <div class="position-relative">
+              <img src="https://az818438.vo.msecnd.net/icons/slack.png" style="width:72px;height:72px;" />
+            </div>
+            <h4 id="thumbnail-label"><a href="https://flow.microsoft.com/en-us/connectors/shared_slack/slack/" target="_blank">Microsoft Slack</a></h4>
+            <p><i class="glyphicon glyphicon-user light-red lighter bigger-120"></i>&nbsp;Auditor</p>
+            <div class="thumbnail-description smaller">Slack is a team communication tool, that brings together all of your team communications in one place, instantly searchable and available wherever you go.</div>
+          </div>
+          <div class="caption card-footer text-center">
+            <ul class="list-inline">
+              <li><i class="people lighter"></i>&nbsp;7 Active Users</li>
+              <li></li>
+              <li><i class="glyphicon glyphicon-envelope lighter"></i><a href="#">&nbsp;Help</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-sm-4">
+        <div class="thumbnail">
+          <div class="caption text-center" onclick="location.href='https://flow.microsoft.com/en-us/connectors/shared_slack/slack/'">
+            <div class="position-relative">
+              <img src="https://az818438.vo.msecnd.net/icons/slack.png" style="width:72px;height:72px;" />
+            </div>
+            <h4 id="thumbnail-label"><a href="https://flow.microsoft.com/en-us/connectors/shared_slack/slack/" target="_blank">Microsoft Slack</a></h4>
+            <p><i class="glyphicon glyphicon-user light-red lighter bigger-120"></i>&nbsp;Auditor</p>
+            <div class="thumbnail-description smaller">Slack is a team communication tool, that brings together all of your team communications in one place, instantly searchable and available wherever you go.</div>
+          </div>
+          <div class="caption card-footer text-center">
+            <ul class="list-inline">
+              <li><i class="people lighter"></i>&nbsp;7 Active Users</li>
+              <li></li>
+              <li><i class="glyphicon glyphicon-envelope lighter"></i><a href="#">&nbsp;Help</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+ 
+
+    </div>
+    <div class="col-md-2">&nbsp;</div>
+  </div>
+</div>
 
 
 <div class="mt-5 pt-5 pb-5 footer">
